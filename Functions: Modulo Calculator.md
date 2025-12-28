@@ -23,3 +23,4 @@ print(f"Modulo of {a} and {b} is",result(a,b))
 
 
 ## Result
+Thus, the given program has been executed successfully and the modulo of two numbers is calculated using a function.
